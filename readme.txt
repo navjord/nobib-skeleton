@@ -1,0 +1,1 @@
+This is a skeleton using no MVx-libraries for use with different projects.
